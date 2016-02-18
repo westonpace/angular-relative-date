@@ -1,5 +1,5 @@
 {
-    "name": "angular-relative-date",
+    "name": "angular-relative-date-wp",
     "version": "2.0.0",
     "description":"AngularJS filter to provide relative, human-readable dates",
     "main":["dist/angular-relative-date.min.js"],
