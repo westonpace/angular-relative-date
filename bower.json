@@ -1,28 +1,22 @@
 {
     "name": "angular-relative-date-wp",
-    "version": "2.0.0",
-    "description":"AngularJS filter to provide relative, human-readable dates",
-    "main":["dist/angular-relative-date.min.js"],
-    "licence":"MIT",
-    "keywords":["angularjs","date"],
-    "authors":["Joseph Wynn"],
-    "homepage"  :"https://github.com/wildlyinaccurate/angular-relative-date",
-    "repository":{
-        "type":"git",
-        "url":"https://github.com/westonpace/angular-relative-date"
-    },
-    "ignore": [
-        "src",
-        "translations",
-        "test",
-        ".gitignore",
-        "Gruntfile.coffee",
-        "karma.conf.js",
-        "bower.json",
-        "package.json",
-        "README.md"
+    "version": "2.0.1",
+    "description": "AngularJS filter to provide relative, human-readable dates.",
+    "main": "dist/angular-relative-date.min.js",
+    "authors": [
+        "Joseph Wynn <joseph@wildlyinaccurate.com> (https://wildlyinaccurate.com/)"
     ],
-    "dependencies": {
-        "angular": ">=1.0"
-    }
+    "license": "MIT",
+    "keywords": [
+        "angularjs"
+    ],
+    "homepage": "https://github.com/westonpace/angular-relative-date",
+    "moduleType": [],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
